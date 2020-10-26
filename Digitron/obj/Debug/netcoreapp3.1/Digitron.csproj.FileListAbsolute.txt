@@ -1,0 +1,15 @@
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+E:\Rider\workspace\Digitron\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csprojAssemblyReference.cache
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.Form1.resources
+E:\Rider\workspace\Digitron\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.GenerateResource.cache
