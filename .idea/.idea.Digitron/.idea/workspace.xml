@@ -4,32 +4,50 @@
     <projectFile>Digitron/Digitron.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67b6aea-01ac-4a6d-8248-7ca4d47a1994" name="Default Changelist" comment="" />
+    <list default="true" id="d67b6aea-01ac-4a6d-8248-7ca4d47a1994" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Digitron/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Digitron/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Digitron/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/bin/Debug/netcoreapp3.1/win10-x64/Digitron.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/bin/Debug/netcoreapp3.1/win10-x64/Digitron.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/bin/Debug/netcoreapp3.1/win10-x64/Digitron.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/bin/Debug/netcoreapp3.1/win10-x64/Digitron.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Digitron/obj/Debug/netcoreapp3.1/win10-x64/Digitron.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1166BCED-26EC-4C60-9990-23602F086AAE/39/Control.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1166BCED-26EC-4C60-9990-23602F086AAE/39/Control.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Digitron/Digitron.csproj" />
-        <option value="$PROJECT_DIR$/Digitron/Program.cs" />
         <option value="$PROJECT_DIR$/Digitron/Form1.Designer.cs" />
         <option value="$PROJECT_DIR$/Digitron/Form1.cs" />
+        <option value="$PROJECT_DIR$/Digitron/ConsoleReaderThread.cs" />
+        <option value="$PROJECT_DIR$/Digitron/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jPudpEnJyCIr2d4NbpfAlDD5kW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -62,32 +80,57 @@
       <option name="presentableId" value="Default" />
       <updated>1603718139038</updated>
       <workItem from="1603718154666" duration="7007000" />
-      <workItem from="1603726684022" duration="992000" />
+      <workItem from="1603726684022" duration="3411000" />
+      <workItem from="1604253469760" duration="401000" />
+      <workItem from="1604253962827" duration="1793000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603727664958">
+    <state x="740" y="446" key="AddNewResourceElement" timestamp="1604254640792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603727664958" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603727664957">
+    <state x="740" y="446" key="AddNewResourceElement/0.0.1920.1040@0.0.1920.1040" timestamp="1604254640792" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1603727846380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603727664957" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603727664957">
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603727846380" />
+    <state x="633" y="224" key="Github.UntrackedFilesDialog" timestamp="1603727905212">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603727664957" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603727664958">
+    <state x="633" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603727905212" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604255408272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603727664958" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604255408272" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604255408272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604255408272" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604255408272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604255408272" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604255408272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604255408272" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1603727717788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -96,5 +139,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="178" key="ToolboxManager/0.0.1920.1040@0.0.1920.1040" timestamp="1603718277684" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604254971817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604254971817" />
   </component>
 </project>
